@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEVILRAIDER7
 - 👀 I’m interested in ... improving myself
-- 🌱 I’m currently learning ... Web Development 
+- 🌱 I’m currently learning ... Data Engineering
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... tarunttt35@gmail.com
 
